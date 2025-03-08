@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+Copyright © 2025 https://github.com/Fabii08?tab=repositories  
 All rights reserved.  
 
 Unauthorized copying, modification, or distribution of this file,  
